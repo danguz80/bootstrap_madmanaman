@@ -37,3 +37,10 @@ h4 {
     font-style: normal;
 }
 
+.card-img-top{
+    height: 200px;
+}
+
+.card-text{
+    height: 200px;
+}
